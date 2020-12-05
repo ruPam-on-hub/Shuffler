@@ -24,4 +24,6 @@ alt="Shuffler Demo" width="240" height="180" border="10" /></a>
       <img src="/screenshots/Screenshot_2018-05-20-14-59-47-654_com.example.anujsharma.shuffler.png" width="250" title="Search History">
       <img src="/screenshots/Screenshot_2018-05-20-15-02-39-938_com.example.anujsharma.shuffler.png" width="250" title="Saved Playlists">
       <img src="/screenshots/Screenshot_2018-05-20-15-04-15-523_com.example.anujsharma.shuffler.png" width="250" title="Search Results">
+      
+      <h3>viewed by</h3> <h1>Rupam Maity</h1>
 </div>
